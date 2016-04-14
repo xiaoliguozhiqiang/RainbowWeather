@@ -1,0 +1,2 @@
+# RainbowWeather
+基于Android平台下的eclipse的开源学习APP，实现查询全国省市县级实时天气情况，可以手动更新和后天更新
